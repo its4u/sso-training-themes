@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "my-theme-1",
+        "types": [ "type1", "type2" ]
+    }]
+}
